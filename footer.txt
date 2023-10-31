@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 text from gh-pages
 from main
+=======
+text from gh-pages
+>>>>>>> 11a63c3 (commit 2(add branch and file))
